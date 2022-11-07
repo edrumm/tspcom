@@ -1,0 +1,24 @@
+{
+  "name": "tspcom",
+  "version": "1.0.0",
+  "description": "json parser combinator in typescript",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "npx tsc && node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edrumm/tspcom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edrumm/tspcom/issues"
+  },
+  "homepage": "https://github.com/edrumm/tspcom#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
