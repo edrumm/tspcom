@@ -1,2 +1,5 @@
 # tspcom
-json parser combinator in typescript
+parser combinator in typescript
+
+## Under Construction
+...
