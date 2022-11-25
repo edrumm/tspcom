@@ -1,7 +1,7 @@
 {
   "name": "tspcom",
   "version": "1.0.0",
-  "description": "json parser combinator in typescript",
+  "description": "parser combinator in typescript",
   "main": "build/index.js",
   "scripts": {
     "build": "npx tsc",
