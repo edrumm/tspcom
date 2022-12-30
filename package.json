@@ -5,7 +5,8 @@
   "main": "build/index.js",
   "scripts": {
     "build": "npx tsc",
-    "start": "npx tsc && node build/index.js",
+    "start": "node build/index.js",
+    "start:build": "npx tsc && node build/index.js",
     "test": "jest"
   },
   "repository": {
